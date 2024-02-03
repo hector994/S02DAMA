@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">S02DAMA</string>
+    <string name="tab_text_1">Quien Soy</string>
+    <string name="tab_text_2">Que Estudio</string>
+    <string name="tab_text_3">Mis Saberes</string>
+    <string name="tab_text_4">Otro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_title_1">Informacion Personal</string>
+    <string name="tab_title_2">Informacion Profesional</string>
+    <string name="tab_title_3">Mis conocimientos</string>
+    <string name="tab_title_4">Mas</string>
+
+    <string name="nombre">Hector Eduardo</string>
+    <string name="apellido">Murillo Herrera</string>
+    <string name="phone">22229999</string>
+    <string name="univo">U20200089</string>
+    <string name="Contact_me">Contactame</string>
+
+    <string name="carrera">Ingenieria en desarrollo de software</string>
+    <string name="cursado">He cursado y aprovado 35 materias y solo me faltarian 13 materias apartir de las que estoy
+    cursando actualmente en total son 48 ya que mi pensun de el del 2018</string>
+    <string name="uviversidad">Mi Universidad</string>
+
+    <string name="conociminetos">Poseo conocimientos en JAVA, Javascript, HTML, SQL, Bottstrap, Android, </string>
+    <string name="Servicios">Contactame para saber mas de mis Servicios</string>
+</resources>
